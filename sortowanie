@@ -26,6 +26,6 @@ int main()
 	for(int k=0; k<d; k++)
 		cout<<T[k]<<"";
 	cout<<endl;
-	cout<<"Liczba porownan: "<<l;
+	cout<<"Ilosc porownan: "<<l;
 	return 0;
 }
